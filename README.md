@@ -3,7 +3,7 @@
 This works in python 3
 
 If you press and hold the left mouse key, the grid will be painted and the right key will delete it.  
-<img src="https://user-images.githubusercontent.com/25835750/51392035-21954680-1b77-11e9-88a9-0c6c1a3bfe9c.png" width="224" height="360"> <img src="https://user-images.githubusercontent.com/25835750/51392038-235f0a00-1b77-11e9-83c7-c67ee8978b40.png">
+<img src="https://user-images.githubusercontent.com/25835750/51392035-21954680-1b77-11e9-88a9-0c6c1a3bfe9c.png" width="224" height="360"> <img src="https://user-images.githubusercontent.com/25835750/51580813-32441480-1f09-11e9-81ab-ac037379a861.png">
 
 # Result
 Press the save button to save the annotated image.    
